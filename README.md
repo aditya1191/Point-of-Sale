@@ -1,5 +1,5 @@
-# POS - DDD, Reactive Microservices, CQRS Event Sourcing Powered by DERMAYON LIBRARY
-Sample Application DDD Reactive Microservices with CQRS & Event Sourcing with [DERMAYON LIBRARY](https://github.com/NHadi/Dermayon). 
+# POS - DDD, Reactive Microservices, CQRS Event Sourcing
+Sample Application DDD Reactive Microservices with CQRS & Event Sourcing
 
 # Architectures
 ![Image of Architecture](https://github.com/NHadi/Pos/blob/master/images/architecture.png)
